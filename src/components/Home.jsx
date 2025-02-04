@@ -117,7 +117,7 @@ const Home = () => {
  
   }, []);
   const profile = {
-    username: "Nilsennnnnn",
+    username: "Nilsen",
     link_linkedin: "https://www.linkedin.com/in/nilsen",
     link_facebook: "https://www.facebook.com/tobias.joudashiy"
   };
